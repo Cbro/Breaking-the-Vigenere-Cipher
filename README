@@ -1,0 +1,17 @@
+#
+# How to compile and sample execution. 
+#
+$ make
+g++ -Wall -c -g main.cpp
+g++ -Wall -c -g vigenere.cpp
+g++  main.o  vigenere.o    -o main
+
+$ ./main -c vig2-crypto.2 
+ Processing Cipher File  --->vig2-crypto.2
+The Key Length is --> 6
+The Actual Key is --> C O O K I E 
+The Plaintext is --> 
+t h e f i r s t t i m e i m e t m y m o t h e r i n l a w g l y n i s w e w e n t f o r a d r i v e i n t h e m o u n t a i n s a l o n g t h e c o a s t i c o u l d s e e t h e f e a r i n h e r g r e e n e y e s e v e r y t i m e w e t u r n e d a c o r n e r t h e s e s o c k s a r e p e r f e c t f o r t r e p i d k n i t t e r s i n t e r e s t e d i n l a c e b e c a u s e t h e y a r e m u c h s i m p l e r t h a n t h e y a p p e a r 
+
+Execution time: 0.017 milliseconds.
+
