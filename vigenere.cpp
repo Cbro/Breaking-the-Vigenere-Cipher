@@ -1,6 +1,6 @@
 /**********************************************************************************
 **	Filename 		: vigenere.cpp	
-**	Authors 		: Manu Kaul, Erik Ward, Johan Lindqvuist  
+**	Authors 		: CBro  
 **  Last Modified	: Monday, 29 Mar 2010
 **  
 **  Description		: Vigenere Breaking related library of functions	

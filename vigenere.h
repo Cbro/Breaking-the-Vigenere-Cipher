@@ -1,6 +1,6 @@
 /**********************************************************************************
 **	Filename 		: vigenere.h	
-**	Authors 		: Manu Kaul, Erik Ward, Johan Lindqvuist
+**	Authors 		: CBro
 **  Last Modified	: Monday, 29 Mar 2010
 **  
 **  Description		: Header file for vigenre.cpp with constants and 

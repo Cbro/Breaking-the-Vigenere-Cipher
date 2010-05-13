@@ -1,6 +1,6 @@
 /**********************************************************************************
 **	Filename 		: main.cpp	
-**	Authors 		: Manu Kaul, Erik Ward, Johan Lindqvuist
+**	Authors 		: CBro
 **  Last Modified	: Monday, 29 Mar 2010
 **  
 **  Description		: Main program of the project that controls the order in which
